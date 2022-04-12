@@ -1,1 +1,2 @@
-# rest api example
+# javascript rest api example
+npm i & npm start
