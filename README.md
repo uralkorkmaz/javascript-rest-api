@@ -1,2 +1,2 @@
-# javascript rest api example
-npm i & npm start
+# What is that?
+This is a simple javascript rest api example.
